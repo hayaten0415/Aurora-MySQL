@@ -179,7 +179,7 @@ MYSQL [xx] > show global variables like 'version_compile_machine';
 |db.r5.12xlarge|48|173|384|
 
 ### Aurora MySQL DB インスタンスへの最大接続数
-各インスタンスタイプごとのmax_connectionsのデフォルト値を以下に示す
+
 |インスタンスクラス|max_connections デフォルト値|
 |----|----|
 |db.t2.small|45|
